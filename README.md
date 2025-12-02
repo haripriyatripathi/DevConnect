@@ -12,7 +12,7 @@ DevConnect is a React and Node.js based developer directory featuring role-based
 ## Tech Stack
 **Frontend:** React, Vite, Tailwind CSS, shadcn/ui, React Query  
 **Backend:** Node.js, Express  
-**Deployment:** Vercel + Render/Railway
+**Deployment:** Netlify
 
 ## Folder Structure
 ```md
